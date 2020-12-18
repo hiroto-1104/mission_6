@@ -1,0 +1,13 @@
+.main{
+    text-align:center;
+}
+
+h1{
+    background-color:yellow;
+    color:black;
+    font-size:80px;
+}
+
+.input{
+    width:20px;
+}
